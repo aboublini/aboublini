@@ -38,7 +38,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"
-      alt="matlab" width="40" height="40" /> </a>
+      alt="matlab" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      alt="react" width="40" height="40" /> </a>
   
 </p>
 
